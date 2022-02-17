@@ -1,0 +1,9 @@
+Step 1 ; Start 
+Step 2 ; Set Sum S==0
+Step 3 ; Read Number 
+Step 4 ; If N > 0 repeat 5,6 & 7
+Step 5 ; Find the remainder 
+Step 6 ; S ==S + rem*rem
+Step 7 ; N == N/10
+Step 8 ; Print S
+Step 9 ; Stop
